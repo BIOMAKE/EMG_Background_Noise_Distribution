@@ -27,12 +27,6 @@ Motor-evoked potentials (MEPs) are crucial for assessing responses to noninvasiv
 - Potential to enhance the precision of MEP-based assessments in clinical and research settings.
 - May lead to the development of more effective noise reduction techniques and improved signal clarity in MEP recordings.
 
-## Methodology
-
-- Experimental data from 19 healthy subjects
-- Computer simulations of EMG background noise
-- Model comparison using Bayesian Information Criterion (BIC) and statistical tests
-
 ## Conclusion
 
-This study provides evidence for rethinking the statistical approach to noise floor characterization in MEP measurements. By adopting more accurate models like the GEV distribution, researchers and clinicians can potentially improve the reliability and interpretability of MEP data, advancing our understanding of neurophysiological processes and enhancing clinical outcomes.
+This study provides evidence for rethinking the statistical approach to noise floor characterisation in MEP measurements. By adopting more accurate models like the GEV distribution, researchers and clinicians can potentially improve the reliability and interpretability of MEP data, advancing our understanding of neurophysiological processes and enhancing clinical outcomes.

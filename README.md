@@ -30,3 +30,6 @@ Motor-evoked potentials (MEPs) are crucial for assessing responses to noninvasiv
 ## Conclusion
 
 This study provides evidence for rethinking the statistical approach to noise floor characterisation in MEP measurements. By adopting more accurate models like the GEV distribution, researchers and clinicians can potentially improve the reliability and interpretability of MEP data, advancing our understanding of neurophysiological processes and enhancing clinical outcomes.
+
+## Files
+`Supplementary Code` contains several MATLAB code files and a corresponding experimental dataset of the background noise distribution for Subject A05. `Figure_experimental_data.m` uses dataset `A05_Background_Noise_MEP.mat` and function `mygevfit.m` to generate a figure of the data distribution and calibrate the aforementioned four models.
